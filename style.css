@@ -1,1 +1,31 @@
 
+*
+.body{
+    background-color: linear-gradient(to-bottom-right, rgba(79,51,176,1),rgba(210,53,165,));
+    color: violet;
+}    
+#div{
+    margin-left: 20px;
+    margin-top: 20px;
+}    
+
+button{
+    color: whitesmoke;
+    background-color: rgba(79,51,176,1);
+}
+#result{
+    background-color: aqua;
+    color: black;
+}
+#difference{
+    background-color: aqua;
+    color: black;
+}
+#product{
+    background-color: aqua;
+    color: black;
+}
+#quotient{
+    background-color: aqua;
+    color: black;
+}
